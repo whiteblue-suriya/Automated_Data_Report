@@ -1,0 +1,31 @@
+date,product,category,sales,quantity,profit,customer_age,customer_city
+2024-01-01,Laptop,Electronics,1200,2,400,28,New York
+2024-01-01,Headphones,Electronics,150,5,60,35,Los Angeles
+2024-01-02,Shirt,Clothing,45,10,20,24,Chicago
+2024-01-02,Pants,Clothing,60,8,25,32,Houston
+2024-01-03,Laptop,Electronics,1200,1,380,45,Phoenix
+2024-01-03,Phone,Electronics,800,3,200,29,Philadelphia
+2024-01-04,Shoes,Clothing,120,4,50,38,San Antonio
+2024-01-04,Tablet,Electronics,450,2,120,31,San Diego
+2024-01-05,Shirt,Clothing,45,12,22,27,Dallas
+2024-01-05,Watch,Accessories,250,3,80,42,San Jose
+2024-01-06,Pants,Clothing,60,6,18,33,Austin
+2024-01-06,Headphones,Electronics,150,4,55,26,Jacksonville
+2024-01-07,Laptop,Electronics,1200,2,390,41,Fort Worth
+2024-01-07,Phone,Electronics,800,2,180,30,Columbus
+2024-01-08,Shoes,Clothing,120,5,55,36,Charlotte
+2024-01-08,Tablet,Electronics,450,1,100,28,Indianapolis
+2024-01-09,Shirt,Clothing,45,15,25,22,Seattle
+2024-01-09,Watch,Accessories,250,2,70,44,Denver
+2024-01-10,Pants,Clothing,60,7,22,34,Washington
+2024-01-10,Headphones,Electronics,150,6,65,37,Boston
+2024-01-11,Laptop,Electronics,1200,1,360,48,Nashville
+2024-01-11,Phone,Electronics,800,4,220,25,Baltimore
+2024-01-12,Shoes,Clothing,120,3,45,39,Oklahoma City
+2024-01-12,Tablet,Electronics,450,2,115,32,Louisville
+2024-01-13,Shirt,Clothing,45,8,18,29,Portland
+2024-01-13,Watch,Accessories,250,4,90,40,Las Vegas
+2024-01-14,Pants,Clothing,60,9,28,31,Memphis
+2024-01-14,Headphones,Electronics,150,3,50,35,Detroit
+2024-01-15,Laptop,Electronics,1200,2,400,26,Milwaukee
+2024-01-15,Phone,Electronics,800,1,160,43,Albuquerque
